@@ -34,4 +34,3 @@ Fun Fact
 
 ---
 
-This version maintains the content and structure without using asterisks or hash symbols.
