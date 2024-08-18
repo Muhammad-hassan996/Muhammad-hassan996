@@ -16,9 +16,9 @@ Hello! I’m Muhammad Hassan, a passionate Python Developer and Data Science Ent
 
 ## Projects and Contributions
 Here are some of the areas I've been working on:
-- Machine Learning Models: From classic algorithms to deep learning models.
-- Data Pipelines: Building scalable systems for processing and analyzing large datasets.
-- Data Visualization: Creating insightful and interactive visualizations to communicate data findings.
+- Machine Learning Models: 
+- Data Pipelines:
+- Data Visualization:
 
 ## How to Reach Me
 Feel free to connect with me or reach out through the following channels:
